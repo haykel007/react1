@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url("https://i0.wp.com/www.insidehr.com.au/wp-content/uploads/2015/09/Learning-development.jpg?resize=1000%2C500&ssl=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*{
+  color: red;
+  font-size: 30px;
+}
+
